@@ -12,3 +12,6 @@ Enfocado en tecnologías modernas, mi experiencia incluye el uso de tegnologias 
 Fuera del código, disfruto sumergirme en el mundo de la música, explorar la espiritualidad y conectarme con la naturaleza. Creo en encontrar el equilibrio entre la tecnología y la vida.
 
 ¡Gracias por visitar mi repositorio! Siéntete libre de explorar.
+
+Email: jpaviles5@gmail.com
+Linkedin: https://www.linkedin.com/in/juan-pablo-a-06b8a21a9/
