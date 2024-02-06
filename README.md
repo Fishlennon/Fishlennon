@@ -14,4 +14,5 @@ Fuera del código, disfruto sumergirme en el mundo de la música, explorar la es
 ¡Gracias por visitar mi repositorio! Siéntete libre de explorar.
 
 Email: jpaviles5@gmail.com
+
 Linkedin: https://www.linkedin.com/in/juan-pablo-a-06b8a21a9/
