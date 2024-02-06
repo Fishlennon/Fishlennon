@@ -1,16 +1,14 @@
-### Hi there 👋
+# Soy Juan Pablo Avilés, FullStack Developer e Ingeniero Comercial.
 
-<!--
-**Fishlennon/Fishlennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Egresado de Ingeniería Comercial y actualmente inmerso en el fascinante mundo del desarrollo fullstack graduandome con exito de el bootcamp Soy Henry, culminando con un proyecto real que ha fortalecido mis habilidades tanto en el backend como en el frontend.
 
-Here are some ideas to get you started:
+## 💻 Experiencia y Compromiso
+Mi compromiso con la adquisición de habilidades técnicas me ha impulsado a buscar la siguiente etapa en mi carrera como Fullstack Developer. Planeo aplicar las habilidades adquiridas a lo largo de los años, tanto en el ámbito académico como en habilidades blandas, de manera sinérgica con mis nuevas habilidades tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Proyectos
+Enfocado en tecnologías modernas, mi experiencia incluye el uso de tegnologias tales como Javascript, React, Redux, Express, NodeJS, Sequelize, PostgreSQL, Chakra, CSS, etc.., y he trabajado en proyectos impactantes durante mi tiempo en el bootcamp,como el proyecto individual y el final el cual fué un proyecto a una empresa real en el que me destaqué en tareas del frontend como del backend, llegando a implementar en este varias funcionalidades como pasarela de pago (mercado-pago), sistema de logeo (firebase), el deploy en servidores web(vercel, render), entre otras.
+
+## 🎶 Gustos y Pasiones
+Fuera del código, disfruto sumergirme en el mundo de la música, explorar la espiritualidad y conectarme con la naturaleza. Creo en encontrar el equilibrio entre la tecnología y la vida.
+
+¡Gracias por visitar mi repositorio! Siéntete libre de explorar.
