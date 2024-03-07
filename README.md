@@ -17,6 +17,8 @@ Outside of coding, I enjoy diving into the world of music, exploring spiritualit
 
 Thank you for visiting my repository! Feel free to explore.
 
+#
+#
 
 # Soy Juan Pablo Avilés, FullStack Developer e Ingeniero Comercial.
 Email: jpaviles5@gmail.com
