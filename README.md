@@ -1,6 +1,6 @@
 
 
-# I am Juan Pablo Avilés, a FullStack Developer and Commercial Engineer.
+# Juan Pablo Avilés / Commercial Engineer.
 Email: jpaviles5@gmail.com
 Linkedin: https://www.linkedin.com/in/juan-pablo-a-06b8a21a9/
 
@@ -20,7 +20,7 @@ Thank you for visiting my repository! Feel free to explore.
 #
 #
 
-# Soy Juan Pablo Avilés, FullStack Developer e Ingeniero Comercial.
+# Soy Juan Pablo Avilés / Ingenieria Comercial.
 Email: jpaviles5@gmail.com
 Linkedin: https://www.linkedin.com/in/juan-pablo-a-06b8a21a9/
 
