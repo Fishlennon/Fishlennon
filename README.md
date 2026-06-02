@@ -15,8 +15,6 @@ Focused on modern technologies, my experience includes the use of technologies s
 ## 🎶 Likes and Passions
 Outside of coding, I enjoy diving into the world of music, exploring spirituality, and connecting with nature. I believe in finding the balance between technology and life.
 
-Thank you for visiting my repository! Feel free to explore.
-
 #
 #
 
@@ -34,7 +32,4 @@ Enfocado en tecnologías modernas, mi experiencia incluye el uso de tegnologias 
 
 ## 🎶 Gustos y Pasiones
 Fuera del código, disfruto sumergirme en el mundo de la música, explorar la espiritualidad y conectarme con la naturaleza. Creo en encontrar el equilibrio entre la tecnología y la vida.
-
-¡Gracias por visitar mi repositorio! Siéntete libre de explorar.
-
 
